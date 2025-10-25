@@ -68,10 +68,10 @@
 
 | Project | Description | Technologies Used |
 | --- | --- | --- |
-| 🤖 **[IntelliRun AI Code Platform](https://github.com/Muthaiah26/YOUR-REPO-NAME)** | An intelligent, cloud-based IDE that allows users to write, compile, and run code. Integrated **Gemini API** for AI-powered debugging, error explanation, and logic visualization. | **React**, **Java**, **Docker**, **Gemini API** |
-| 📄 **[AI Resume Analyzer](https://github.com/Muthaiah26/YOUR-REPO-NAME)** | A web app that analyzes resumes (PDF/TXT) and automatically matches them to job descriptions using **NLP (Sentence Transformers)** and **cosine similarity** to rank job relevance. | **Python**, **Flask**, **NLP**, **Sentence Transformers**, **Firestore**  |
-| 🚌 **[Live Transport App](https://github.com/Muthaiah26/YOUR-REPO-NAME)** | A role-based mobile and web app that enables real-time bus location tracking and live notifications for students/drivers using **Socket.IO**. | **React**, **React Native**, **Node.js/Express**, **MongoDB** |
-| 🎣 **[Phishing Email Detector](https://github.com/Muthaiah26/YOUR-REPO-NAME)** | A tool that analyzes email content/headers to identify potential phishing attempts. It uses **ML/NLP** to classify suspicious patterns and store results in MongoDB. | **Python**, **Flask**, **Machine Learning/NLP**, **MongoDB**  |
+| 🤖 **[IntelliRun AI Code Platform](https://github.com/Muthaiah26/frontend_main)** | An intelligent, cloud-based IDE that allows users to write, compile, and run code. Integrated **Gemini API** for AI-powered debugging, error explanation, and logic visualization. | **React**, **Java**, **Docker**, **Gemini API** |
+| 📄 **[AI Resume Analyzer](https://github.com/Muthaiah26/Data_Science)** | A web app that analyzes resumes (PDF/TXT) and automatically matches them to job descriptions using **NLP (Sentence Transformers)** and **cosine similarity** to rank job relevance. | **Python**, **Flask**, **NLP**, **Sentence Transformers**, **Firestore**  |
+| 🚌 **[Live Transport App](https://github.com/Muthaiah26/Transport)** | A role-based mobile and web app that enables real-time bus location tracking and live notifications for students/drivers using **Socket.IO**. | **React**, **React Native**, **Node.js/Express**, **MongoDB** |
+| 🎣 **[Phishing Email Detector](https://github.com/Muthaiah26/Phishing-Email-Detection-System)** | A tool that analyzes email content/headers to identify potential phishing attempts. It uses **ML/NLP** to classify suspicious patterns and store results in MongoDB. | **Python**, **Flask**, **Machine Learning/NLP**, **MongoDB**  |
 
 ---
 
