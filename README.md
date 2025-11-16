@@ -84,6 +84,16 @@
 
 ---
 
+### 📜 Certifications
+
+* **Cloud Computing** - NPTEL
+* **Foundations of Cyber Security** - COURSERA
+* **Algorithmic Toolbox** - COURSERA
+* **Cyber Security Essentials** - CISCO
+* **Introduction to Cyber Security** - CISCO
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
