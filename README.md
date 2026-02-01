@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muthaiah Pandi RP 👋</h1>
+<h1 align="center">Hi, I'm Muthaiah Pandi RP </h1>
 <h3 align="center">Full-Stack Developer & Data Scientist</h3>
 
 <p align="center">
